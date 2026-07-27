@@ -54,15 +54,15 @@ $ cat mission.txt
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0f2027&height=3" />
 
-## `ls -la ./exhibits`
+## `grep disclosed findings`
 
-<div align="center">
-
-<a href="https://github.com/AruvasgaChithan/Vulnerability-Scanner"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AruvasgaChithan&repo=Vulnerability-Scanner&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/AruvasgaChithan/Packer_Sniffer"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AruvasgaChithan&repo=Packer_Sniffer&theme=radical&hide_border=true" /></a>
-
-<a href="https://github.com/AruvasgaChithan/WildGuard"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AruvasgaChithan&repo=WildGuard&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/AruvasgaChithan/PasswordStrengthChecker"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AruvasgaChithan&repo=PasswordStrengthChecker&theme=radical&hide_border=true" /></a>
+```log
+[✓] HOF-KNAW
+[✓] CERT-In (2)
+[✓] NASA VDP (4)
+[✓] Microsoft Security Response Center (1)
+[✓] Open Source Security Report (Accepted)
+```
 
 </div>
 
