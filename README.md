@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:00ff9c&height=220&section=header&text=AruvasgaChithan&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=running%20recon%20on%20the%20internet%20since%202023&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:00ff9c&height=220&section=header&text=Aruvasaga%20Chithan%20A&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=running%20recon%20on%20the%20internet%20since%202023&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=nmap+-sV+--script+vuln+aruvasaga;%5B%2B%5D+Host+is+up+(0.002s+latency);%5B%2B%5D+80%2Ftcp+open+http;%5B%2B%5D+443%2Ftcp+open+https;%5B%2B%5D+31337%2Ftcp+open+red-team-ops;Scan+complete.+Target+is+interesting." alt="Typing SVG" />
 
@@ -19,13 +19,18 @@
 
 <img align="right" width="180" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
-I'm **Aruvasaga Chithan A** — Cybersecurity Engineering student, **eJPT-certified** penetration tester, and **Top 1% TryHackMe** operator based in Coimbatore, India. I break web apps and Active Directory environments for a living (well — almost), and write about it so other people don't have to learn the hard way.
+I'm **Aruvasaga Chithan A** — an **Offensive Security Researcher**, **eJPT-certified** penetration tester, and **Top 1% TryHackMe** learner. I break things ethically, find vulnerabilities, and responsibly disclose them to make software more secure.
+
 
 ```bash
 $ cat mission.txt
-> Learning Windows internals to go from pentester -> red teamer
-> Publishing real CVE breakdowns & AD attack writeups
-> Building offensive tools from scratch instead of just running them
+
+> Mastering Windows Internals to transition from Pentester → Red Teamer
+> Researching and responsibly disclosing real-world vulnerabilities
+> Publishing root-cause analyses & Active Directory attack writeups
+> Building offensive security tools from scratch to understand attacks deeply
+```
+
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0f2027&height=3" />
