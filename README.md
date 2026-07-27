@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:00ff9c&height=220&section=header&text=Aruvasaga%20Chithan%20A&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=running%20recon%20on%20the%20internet%20since%202023&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:00ff9c&height=220&section=header&text=Aruvasaga%20Chithan%20A&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=running%20recon%20on%20the%20internet%20since%202021&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=nmap+-sV+--script+vuln+aruvasaga;%5B%2B%5D+Host+is+up+(0.002s+latency);%5B%2B%5D+80%2Ftcp+open+http;%5B%2B%5D+443%2Ftcp+open+https;%5B%2B%5D+31337%2Ftcp+open+red-team-ops;Scan+complete.+Target+is+interesting." alt="Typing SVG" />
 
@@ -31,7 +31,6 @@ $ cat mission.txt
 > Building offensive security tools from scratch to understand attacks deeply
 ```
 
-```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0f2027&height=3" />
 
@@ -44,6 +43,9 @@ $ cat mission.txt
 ## `tail -f writeups.log`
 
 > 📡 Live feed from [Medium](https://aruvasagachithan.medium.com/) — new entries appended as they're published
+
+<!-- MEDIUM-POST-LIST:START -->
+<!-- MEDIUM-POST-LIST:END -->
 
 - 🟢 `[CRITICAL]` [Exploring CVE-2025-49113 in Roundcube Webmail](https://aruvasagachithan.medium.com/exploring-roundcube-cve-2025-49133-how-this-vulnerability-works-in-the-wild-ffa8847fbf83) — insecure deserialization → RCE
 - 🟡 `[HIGH]` [How I Abused a GPO in Active Directory](https://infosecwriteups.com/how-i-abused-a-group-policy-object-gpo-in-active-directory-and-how-to-fix-it-5d59c031e602) — BloodHound-driven privesc
@@ -107,3 +109,4 @@ $ cat mission.txt
 *`[+] Connection closed by remote host. Come back anytime.`*
 
 </div>
+
