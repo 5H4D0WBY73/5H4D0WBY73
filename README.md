@@ -45,6 +45,11 @@ $ cat mission.txt
 > 📡 Live feed from [Medium](https://aruvasagachithan.medium.com/) — new entries appended as they're published
 
 <!-- MEDIUM-POST-LIST:START -->
+- [How I Found an Auth Flaw in a Government Site: From GraphQL Introspection to Unauthorized Access](https://infosecwriteups.com/how-i-found-an-auth-flaw-in-a-government-site-from-graphql-introspection-to-unauthorized-access-0c877cc3ee07?source=rss-1508a8c93498------2)
+- [How I Abused a Group Policy Object &lpar;GPO&rpar; in Active Directory &lpar;And How to Fix It&rpar;](https://infosecwriteups.com/how-i-abused-a-group-policy-object-gpo-in-active-directory-and-how-to-fix-it-5d59c031e602?source=rss-1508a8c93498------2)
+- [How I Escalated to Domain Admin Using AD CS &lpar;And How to Fix It&rpar;](https://infosecwriteups.com/how-i-escalated-to-domain-admin-using-ad-cs-and-how-to-fix-it-a86cc69aed5a?source=rss-1508a8c93498------2)
+- [How I Reset Another User’s Password Without Domain Admin &lpar;And How to Fix It&rpar;](https://cybersecuritywriteups.com/how-i-reset-another-users-password-without-domain-admin-and-how-to-fix-it-17540319d873?source=rss-1508a8c93498------2)
+- [How I AES-Roasted My Active Directory Lab &lpar;And How to Fix It&rpar;](https://infosecwriteups.com/how-i-aes-roasted-my-active-directory-lab-and-how-to-fix-it-2bc057a8a20e?source=rss-1508a8c93498------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 - 🟢 `[CRITICAL]` [Exploring CVE-2025-49113 in Roundcube Webmail](https://aruvasagachithan.medium.com/exploring-roundcube-cve-2025-49133-how-this-vulnerability-works-in-the-wild-ffa8847fbf83) — insecure deserialization → RCE
