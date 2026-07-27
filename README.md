@@ -52,11 +52,6 @@ $ cat mission.txt
 - [How I AES-Roasted My Active Directory Lab &lpar;And How to Fix It&rpar;](https://infosecwriteups.com/how-i-aes-roasted-my-active-directory-lab-and-how-to-fix-it-2bc057a8a20e?source=rss-1508a8c93498------2)
 <!-- MEDIUM-POST-LIST:END -->
 
-- 🟢 `[CRITICAL]` [Exploring CVE-2025-49113 in Roundcube Webmail](https://aruvasagachithan.medium.com/exploring-roundcube-cve-2025-49133-how-this-vulnerability-works-in-the-wild-ffa8847fbf83) — insecure deserialization → RCE
-- 🟡 `[HIGH]` [How I Abused a GPO in Active Directory](https://infosecwriteups.com/how-i-abused-a-group-policy-object-gpo-in-active-directory-and-how-to-fix-it-5d59c031e602) — BloodHound-driven privesc
-- 🔵 `[MEDIUM]` [DNS Tunneling: Smuggling Data Through Port 53](https://cybersecuritywriteups.com/dns-tunneling-smuggling-data-through-port-53-790c78c0217a) — covert C2 over DNS
-- ⚪ `[INFO]` [Building Effective Penetration Testing Tools with Python](https://aruvasagachithan.medium.com/building-effective-penetration-testing-tools-with-python-a-step-by-step-guide-5edba6872b47) — scanners & reverse shells from scratch
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0f2027&height=3" />
 
 ## `ls -la ./exhibits`
