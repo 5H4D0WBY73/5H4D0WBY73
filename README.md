@@ -72,16 +72,22 @@ $ cat mission.txt
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,linux,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,bash,linux,windows,git,github,docker,kubernetes,aws&theme=dark" />
 
 <br><br>
 
+<div align="center">
+
 <img src="https://img.shields.io/badge/Burp%20Suite-000?style=flat-square&logo=burpsuite&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman&logoColor=00ff9c">
 <img src="https://img.shields.io/badge/Metasploit-000?style=flat-square&logo=metasploit&logoColor=00ff9c">
-<img src="https://img.shields.io/badge/OWASP%20ZAP-000?style=flat-square&logo=owasp&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/BloodHound-000?style=flat-square&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/Cobalt%20Strike-000?style=flat-square&logoColor=00ff9c">
 <img src="https://img.shields.io/badge/Nmap-000?style=flat-square&logo=nmap&logoColor=00ff9c">
 <img src="https://img.shields.io/badge/Wireshark-000?style=flat-square&logo=wireshark&logoColor=00ff9c">
-
+<img src="https://img.shields.io/badge/OWASP%20ZAP-000?style=flat-square&logo=owasp&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/SQLMap-000?style=flat-square&logoColor=00ff9c">
+<img src="https://img.shields.io/badge/NetExec-000?style=flat-square&logoColor=00ff9c">
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0f2027&height=3" />
