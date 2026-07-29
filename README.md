@@ -99,7 +99,7 @@ $ cat mission.txt
 <br><br>
 
 <!-- Animated contribution snake — see setup note below -->
-<img src="https://raw.githubusercontent.com/AruvasgaChithan/AruvasgaChithan/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/5H4D0WBY73/5H4D0WBY73/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 
 </div>
 
