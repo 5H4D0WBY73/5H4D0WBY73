@@ -45,11 +45,11 @@ $ cat mission.txt
 > 📡 Live feed from [Medium](https://aruvasagachithan.medium.com/) — new entries appended as they're published
 
 <!-- MEDIUM-POST-LIST:START -->
+- [How I Found and Fixed a Bug in Apple’s SwiftNIO](https://infosecwriteups.com/how-i-found-and-fixed-a-bug-in-apples-swiftnio-dbed4ca41f4a?source=rss-1508a8c93498------2)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss-1508a8c93498------2)
 - [How I Found an Auth Flaw in a Government Site: From GraphQL Introspection to Unauthorized Access](https://infosecwriteups.com/how-i-found-an-auth-flaw-in-a-government-site-from-graphql-introspection-to-unauthorized-access-0c877cc3ee07?source=rss-1508a8c93498------2)
 - [How I Abused a Group Policy Object &lpar;GPO&rpar; in Active Directory &lpar;And How to Fix It&rpar;](https://infosecwriteups.com/how-i-abused-a-group-policy-object-gpo-in-active-directory-and-how-to-fix-it-5d59c031e602?source=rss-1508a8c93498------2)
 - [How I Escalated to Domain Admin Using AD CS &lpar;And How to Fix It&rpar;](https://infosecwriteups.com/how-i-escalated-to-domain-admin-using-ad-cs-and-how-to-fix-it-a86cc69aed5a?source=rss-1508a8c93498------2)
-- [How I Reset Another User’s Password Without Domain Admin &lpar;And How to Fix It&rpar;](https://cybersecuritywriteups.com/how-i-reset-another-users-password-without-domain-admin-and-how-to-fix-it-17540319d873?source=rss-1508a8c93498------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0f2027&height=3" />
