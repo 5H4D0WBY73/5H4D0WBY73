@@ -45,7 +45,7 @@ $ cat mission.txt
 > 📡 Live feed from [Medium](https://aruvasagachithan.medium.com/) — new entries appended as they're published
 
 <!-- MEDIUM-POST-LIST:START -->
-- [How I Found and Fixed a Bug in Apple’s SwiftNIO](https://infosecwriteups.com/how-i-found-and-fixed-a-bug-in-apples-swiftnio-dbed4ca41f4a?source=rss-1508a8c93498------2)
+- [How I Found and Fixed a Bug in Apple’s SwiftNIO](https://aruvasagachithan.medium.com/how-i-found-and-fixed-a-bug-in-apples-swiftnio-dbed4ca41f4a?source=rss-1508a8c93498------2)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss-1508a8c93498------2)
 - [How I Found an Auth Flaw in a Government Site: From GraphQL Introspection to Unauthorized Access](https://infosecwriteups.com/how-i-found-an-auth-flaw-in-a-government-site-from-graphql-introspection-to-unauthorized-access-0c877cc3ee07?source=rss-1508a8c93498------2)
 - [How I Abused a Group Policy Object &lpar;GPO&rpar; in Active Directory &lpar;And How to Fix It&rpar;](https://infosecwriteups.com/how-i-abused-a-group-policy-object-gpo-in-active-directory-and-how-to-fix-it-5d59c031e602?source=rss-1508a8c93498------2)
